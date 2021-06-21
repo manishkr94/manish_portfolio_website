@@ -44,7 +44,7 @@ const Timeline = () => {
 
   return (
 
-    <Section id="about">
+    <Section id="About">
       <SectionTitle>About Me</SectionTitle>
       <SectionText>I started my journey of web development in 2017 and fell in Love. The purpose of mine is to provide good UI design to customers and transform their any dream PSD to full fledged dynamic web application  </SectionText>
 
