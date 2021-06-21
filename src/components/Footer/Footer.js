@@ -19,7 +19,8 @@ const Footer = () => {
       </LinkList>
       <SocialIconsContainer>
         <CompanyContainer>
-          <Slogan>"Practice is the key to Success"</Slogan>
+          <Slogan>"Where passion meets profession. <br />
+            Working to expand your business one pixel at a time."</Slogan>
         </CompanyContainer>
         <SocialContainer>
           <SocialIcons href="https://github.com/manishkr94">
